@@ -1,0 +1,70 @@
+@import url('http://fonts.googleapis.com/css?family=Roboto+Condensed:700');
+@import url('http://fonts.googleapis.com/css?family=Roboto Slab:400,700');
+
+h1 {
+	font-family: Roboto Condensed;
+	font-size: 60px;
+	text-align: center;
+}
+
+h2 {
+	font-family: Roboto Condensed;
+	font-size: 20px;
+	text-align: center;
+	text-transform: uppercase;
+	padding: 20px;
+}
+
+body {
+	font-family: Roboto Slab;
+	background-color: #fbfdfc;
+	color: #313131;
+}
+
+img {
+	width: 10%;
+	padding: 10px 10px 10px 420px;
+}
+
+.share {
+	width: 40%;
+	padding: 5px 10px 10px 220px;
+}
+video {
+	padding: 0px 10px 10px 220px;
+}
+
+.mailing-list {
+	
+	padding: 40px;
+}
+
+p {
+	padding: 10px 0px 0px 0px;
+}
+
+input {
+	padding: 10px;
+}
+.motto {
+	font-size: 16px;
+	text-align: center;
+	padding: 10px 10px 0px 10px;
+}
+
+h3 {
+	font-size: 40px;
+	font-family: Roboto Condensed;
+	text-decoration: underline;
+}
+
+.list-info {
+	margin: 10px 10px 10px 0px;
+	padding: 10px;
+}
+.btn {
+	font-family: Roboto Condensed;
+	font-size: 15px;
+	border-radius: 5px;
+	margin: 20px 20px 20px 0px;
+}
